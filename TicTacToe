@@ -1,4 +1,4 @@
-# TicTacToe-Game-In-C-
+# TicTacToe-Game-In-C++
 I follow Following classes to design TicTacToe Game
 Board:
 A 3x3 board to store, 9 characters. Besides constructor, getter, setter, init and show member functions
